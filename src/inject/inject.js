@@ -13,8 +13,6 @@ chrome.extension.sendMessage({}, function (response) {
                 var dynamicId=$(this).next().attr('id')
                 console.log(dynamicId)
                 $("#"+dynamicId).text("Word: "+charCount)
-                //$(this).after(charCount)
-
 
             });
 

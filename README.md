@@ -1,6 +1,14 @@
 # chrome-character-counter
 
 This plugin is chrome extension which count the character of the text input in chrome
+
+
+
+
+## screenshot
+
+<a href="../../" target="_blank"><img src="https://raw.githubusercontent.com/tushariscoolster/chrome-character-counter/master/screenshot.png" height="300"></a>
+
 ----------
 
 ## Contributing
